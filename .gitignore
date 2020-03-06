@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+/.bundle
+
+# OSX
+.idea/*
+
+# Ignore bundler gems.
+/vendor/bundle/*
+!/vendor/bundle/.keep
+/vender/*
+!/vender/.keep
+
+
